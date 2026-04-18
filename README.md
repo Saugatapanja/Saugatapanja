@@ -113,7 +113,7 @@ class SaugataPanja:
 - 📺 **Live Streaming Pipeline**: Built a fully automated EdTech media pipeline using MediaLive, MediaPackage, MediaConvert, Lambda & DynamoDB — serving **1,000+ students**
 
 ---
-
+<!--
 ## 📚 Research & Publications
 
 ### 📄 CrCytoGAN: ADASYN-fied Self-Supervised WCGAN for Cervical Cytology Diagnosis
@@ -123,7 +123,7 @@ class SaugataPanja:
 - Accuracy gains: **DenseNet121 +0.84%**, **MobileNetV2 +1.00%**, **ViT-B/16 +0.16%** over baselines on a 3,000+ image dataset; validated via FID benchmarking
 
 ---
-
+-->
 ## 🚀 Featured Projects
 
 ### 🗂️ [Multi-PDF Chat Application Using Gemini AI](https://github.com/saugatapanja)
@@ -153,6 +153,16 @@ class SaugataPanja:
 
 - Reduced manual watering by **90%** via adaptive scheduling
 - Improved water efficiency by **~35%** through soil moisture, temperature & humidity tracking
+
+---
+
+## 📈 Commit Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saugatapanja&theme=tokyo-night&hide_border=true&area=true&area_color=e94560&color=a8b2d8&line=e94560&point=ffffff" alt="commit activity graph"/>
+
+</div>
 
 ---
 
